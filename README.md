@@ -39,7 +39,7 @@ npm install angular-async-loader
 BOWER
 
 ```shell
-bower install https://github.com/subchen/angular-async-loader.git
+bower install angular-components-loader
 ```
 
 # Usage
